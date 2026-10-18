@@ -12,7 +12,7 @@
 
 - 💼 Associate Data Engineer, Kenvue Korea, DAS (2026.08 ~, 인턴 2026.02 시작 후 전환)
 - 🏪 Tech Intern, 한국맥도날드 Business Technology (2025.03 – 2025.08)
-- 🎓 한양대학교 데이터사이언스학부 심리뇌과학전공, 2026.08 졸업예정
+- 🎓 한양대학교 데이터사이언스학부 심리뇌과학전공, 2026.08 졸업
 - 🏆 KT K-Intelligence 해커톤 Track 1 최우수상 (전국 2위), 한양대 졸업프로젝트 장려상
 - 📫 [juchan563@gmail.com](mailto:juchan563@gmail.com)
 
