@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-한양대 데이터사이언스학부(심리뇌과학)에서 공부하고 있고, 지금은 켄뷰 코리아 DAS팀 **Associate Data Engineer**로 일하고 있습니다.
+한양대 데이터사이언스학부(심리뇌과학)를 졸업했고, 지금은 켄뷰 코리아 DAS팀 **Associate Data Engineer**로 일하고 있습니다.
 
 - 💼 Associate Data Engineer, Kenvue Korea, DAS (2026.08 ~, 인턴 2026.02 시작 후 전환)
 - 🏪 Tech Intern, 한국맥도날드 Business Technology (2025.03 – 2025.08)
