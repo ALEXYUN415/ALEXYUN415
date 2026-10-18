@@ -9,7 +9,6 @@
 ## 🙋‍♂️ About Me
 
 한양대 데이터사이언스학부(심리뇌과학)에서 공부하고 있고, 지금은 켄뷰 코리아 DAS팀 **Associate Data Engineer**로 일하고 있습니다.
-한국 조직에 데이터 엔지니어가 없던 자리에서 Snowflake 스키마부터 Sell-Thru 파이프라인, 운영 앱까지 직접 잡아 월별 적재를 운영하고 있습니다.
 
 - 💼 Associate Data Engineer, Kenvue Korea, DAS (2026.08 ~, 인턴 2026.02 시작 후 전환)
 - 🏪 Tech Intern, 한국맥도날드 Business Technology (2025.03 – 2025.08)
@@ -61,8 +60,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-<sub>**Keywords** — 표준 스키마, 마스터 데이터, 적재 전 품질 검증, ETL, RAG, JSON 출력 계약</sub>
-
 ## 📌 Featured
 
 | | 한 줄 | 핵심 |
@@ -78,12 +75,6 @@
 | 🥇 **최우수상, 전국 2위** | 2025 KT, DACON K-Intelligence 해커톤 Track 1, AI Agent. 상금 1,200만 원. [저장소](https://github.com/ALEXYUN415/kt-k-intelligence-hackathon) |
 | 🎖️ **장려상** | 한양대학교 데이터사이언스학부 졸업프로젝트 (2025.12). 행동 로그 XGBoost와 LLM 평가를 융합한 설문 신뢰도 플랫폼 |
 | 📈 **상위 5%** | 2025 LG Aimers 시계열 예측 해커톤 |
-
-## 🧭 Now
-
-- **Kenvue Korea DAS** — Associate Data Engineer. Snowflake 월별 적재, 마스터, 품질 규칙을 이어서 고치는 중 (2026.08 ~)
-- **한양대학교** — 데이터사이언스학부 심리뇌과학전공, 2026.08 졸업예정
-- **한국맥도날드** — Tech Intern. SQL 정합성, RPA, ISMS 접근 통제 (2025.03 – 2025.08)
 
 ## 📊 GitHub Stats
 
